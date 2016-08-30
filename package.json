@@ -1,0 +1,19 @@
+{
+  "name": "bright-light",
+  "version": "1.0.0",
+  "description": "A dashboard for your smart light",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremypress/Bright-Light.git"
+  },
+  "author": "Jeremy Press",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremypress/Bright-Light/issues"
+  },
+  "homepage": "https://github.com/jeremypress/Bright-Light#readme"
+}
